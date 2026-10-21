@@ -1,6 +1,6 @@
 {
   "version": "3.5",
   "notes": "3.5: чтение удалённых сообщений, журнал активности собеседника, автоответчик, автообновление через GitHub.",
-  "android": "https://github.com/FOFPZ/CelesTelegram/releases/download/v3.5/CelesTelegram-3.5.apk",
-  "windows": "https://github.com/FOFPZ/CelesTelegram/releases/download/v3.5/CelesTelegram-Windows-3.5.zip"
+  "android": "https://github.com/FOFPZ/CelesTelegram/releases/download/v3.5/V3.5 release celesTelegram.apk",
+  "windows": "https://github.com/FOFPZ/CelesTelegram/releases/download/v3.5/V3.5 Desktop celesTelegram.zip"
 }
